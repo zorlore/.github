@@ -25,6 +25,8 @@ With ZorLore, you build the game world itself: the map, cities, monsters, NPCs, 
 
 ZorLore is not just a server. It is a full MMORPG creation workflow.
 
+![World Building](https://zorlore.com/assets/world-rookgaard-baseline.png)
+
 Using the ZorLore editor, you can:
 
 - Edit every aspect of the game world
@@ -32,6 +34,8 @@ Using the ZorLore editor, you can:
 - Create and tune items, objects, readable text, liquid states, and visuals
 - Edit sprites directly inside the editor
 - Define how your game looks, feels, and plays without leaving the toolchain
+
+![Sprite Editing](https://zorlore.com/assets/sprite-editor.png)
 
 ## Documentation
 
